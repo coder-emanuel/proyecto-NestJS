@@ -73,6 +73,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 Nest is [MIT licensed](LICENSE).
 
 
+---
+
 # 🛠️ Sentando Bases con NestJS
 
 ---
@@ -163,8 +165,7 @@ Imagina que has sido contratado por una fintech emergente que busca revolucionar
 1. **¿Qué propósito cumple el archivo `main.ts` en un proyecto NestJS y por qué es crucial en la configuración inicial?**
 
    El archivo `main.ts` es crucial porque es el punto de entrada principal de la aplicación. Aquí se configura e inicia la aplicación NestJS usando el método `NestFactory.create()`. Este archivo también puede incluir configuraciones globales como middleware y excepciones globales.
-
-   Puedes leer más sobre el archivo [aquí](https://docs.nestjs.com/).
+   
 
 2. **¿Qué diferencia existe entre `app.module.ts` y `app.controller.ts`? ¿Cómo se relacionan estos archivos con la modularidad y la estructura de la aplicación?**
 
